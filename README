@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=205
+
+When we relax on trips in the country, we probably value script for communication in morse code (notebook and vim are necessary, of course :) What is in the vim's window, we can blink by flash-lamp :)
+
+After sourcing morse.vim, type <F5> to start 'morse' in normal or insert mode and type <F5> again to stop it. (This is default map, remaping this keystroke is on lines 33-34) 
+
+Feature 1:
+Is possible switch on some 'special' characters like ,;/?.: 'to morse'. If you want this feature, please, uncomment  line "let g:var_morse_ext = 1"
+
+Feature 2:
+Maybe is good (?) to treble spaces between words for better reading;  If you want this, please, uncomment line "let g:var_morse_3spc = 1"
+
+Enjoy
